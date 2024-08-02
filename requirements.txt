@@ -1,1 +1,7 @@
+pandas
+aiohttp
+tqdm
+scikit-learn
+beautifulsoup4
+nltk
 streamlit
